@@ -15,7 +15,7 @@ export function Header () {
       <div className='w-full flex justify-between gap-3 p-4 xl:px-32 mb-8 bg-white'>
         <Search />
         <div className='flex items-center gap-8'>
-          <a href="https://pruebas-tecnicas-murex.vercel.app/" rel='noopener noreferer' className='flex items-center gap-1 text-sky-800 hover:brightness-150'>
+          <a href="https://github.com/byronjvh/pruebas-tecnicas/tree/main/pruebas/01-reading-list/byronjvh" rel='noopener noreferer' className='flex items-center gap-1 text-sky-800 hover:brightness-150'>
             Visit GitHub <GitHub size="24" className="" />
           </a>
           <ReadingList />
